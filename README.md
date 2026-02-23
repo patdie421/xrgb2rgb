@@ -7,3 +7,5 @@ The converter is base on the output stage of the Chat Mauve EVE Card (https://mi
 - Apple II GS Color direct connexion: tested, working
 - Apple II GS Color Monitor + PCT Colorswitch: tested, working
 - Scart TV/Monitor: not tester (use at your own risk)
+# usefull link
+- https://hobbytronics.home.blog/2024/12/21/apple-iigs-rgb-monitor-scart-cable/
