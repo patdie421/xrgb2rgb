@@ -10,3 +10,4 @@ The converter is base on the output stage circuit of the Chat Mauve EVE Card (ht
 - Other RGB monitor: can't be tested (but will be done), I have only an Apple II GS monitor ... (give me feedback, please)  
 # usefull link
 - https://hobbytronics.home.blog/2024/12/21/apple-iigs-rgb-monitor-scart-cable/
+- https://apple3.org/Documents/Schematics/ConsortiRGB.png
