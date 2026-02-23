@@ -4,8 +4,8 @@ It was designed for my Taxan Model 410-80 card to chaine it with a PCT Colorswit
 It should work for other kind of card who can be connected to Taxan RGBvision (mode II) or equivalent.  
 The converter is base on the output stage circuit of the Chat Mauve EVE Card (https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/hardware/video/Le%20Chat%20Mauve%20-%20Manuel%20de%20re_25cc_2581fe_25cc_2581rence.pdf).  
 # Working status
-- Apple II GS Color direct connexion: tested, working
-- Apple II GS Color Monitor + PCT Colorswitch: tested, working
-- Scart TV/Monitor: not tester (use at your own risk)
+- Apple II GS Color monitor direct connexion: tested, working
+- Apple II GS Color monitor via PCT Colorswitch: tested, working
+- Scart TV/Monitor: not tester (use at your own risk ... like all connection type :-) )
 # usefull link
 - https://hobbytronics.home.blog/2024/12/21/apple-iigs-rgb-monitor-scart-cable/
