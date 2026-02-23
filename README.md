@@ -1,5 +1,5 @@
 # Goal of this converter
-This card convert TTL RGB (xRGB / TTLLS / ... from some Apple IIe cards or Apple ///) to "standard" RGB. Color are not exactly the same as the Apple IIe color palette but is usable.  
+This card convert TTL RGB (xRGB / TTLLS / ... from some Apple IIe cards or Apple ///) to "standard" RGB. Color are not exactly the same as the Apple IIe color palette but it's usable !  
 It was designed for my Taxan Model 410-80 card to chaine it with a PCT Colorswitch (see https://github.com/patdie421/pct-connectors-rebuild/blob/main/README.md).  
 It should work for other kind of card who can be connected to Taxan RGBvision (mode II), AppleColour (AppleColor) 100 monitor or equivalent.  
 The converter is base on the output stage circuit of the Chat Mauve EVE Card (https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/hardware/video/Le%20Chat%20Mauve%20-%20Manuel%20de%20re_25cc_2581fe_25cc_2581rence.pdf).  
